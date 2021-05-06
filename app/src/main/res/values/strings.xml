@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UserList</string>
+    <string name="active_text">Active</string>
+    <string name="not_active_text">Not active</string>
+    <string name="token_interceptor">tokenInterceptor</string>
+    <string name="age_prefix">Age: </string>
+    <string name="location_prefix">Location: </string>
+    <string name="phone_prefix">Phone: </string>
+    <string name="company_prefix">Company: </string>
+    <string name="registered_prefix">Registered: </string>
+    <string name="address_prefix">Address: </string>
+    <string name="no_internet">Requires internet</string>
+    <string name="refresh">refresh</string>
+    <string name="back">back</string>
+    <string name="unknown_color">Unknown color</string>
+    <string name="brown">brown</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+    <string name="strawberry">strawberry</string>
+    <string name="apple">apple</string>
+    <string name="banana">banana</string>
+    <string name="unknown_fruit">Unknown fruit</string>
+    <string name="user_not_fount">User not found</string>
+    <string name="no_internet_message">Requires user id</string>
+
+
+</resources>
