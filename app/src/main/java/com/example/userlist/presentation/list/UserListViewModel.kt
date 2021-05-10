@@ -57,9 +57,4 @@ class UserListViewModel(
             }
         }
     }
-
-    override fun onCleared() {
-        coroutineContext.cancel()
-        super.onCleared()
-    }
 }
